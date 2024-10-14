@@ -34,20 +34,20 @@ OpenCV (Open Source Computer Vision Library) is an open-source library that offe
 
 ## Basic Concepts
 
--Reading Images and Video 
--Resizing and Rescaling Images 
--Drawing Shapes and Placing text on images
--Essential Methods in OpenCV 
--Rotating an image
--Contour Detection
+- Reading Images and Video 
+- Resizing and Rescaling Images 
+- Drawing Shapes and Placing text on images
+- Essential Methods in OpenCV 
+- Rotating an image
+- Contour Detection
 
 ## Advanced Concepts
 
--Colour Spaces (RGB, BGR, Grayscale, HSV and Lab) 
--Bitwise operations
--Blurring
--Histogram computation
--Thresholding images
--More on edge detection (Laplacian,sobel etc.)
+- Colour Spaces (RGB, BGR, Grayscale, HSV and Lab) 
+- Bitwise operations
+- Blurring images
+- Histogram computation
+- Thresholding images
+- More on edge detection (Laplacian,sobel etc.)
 
 
